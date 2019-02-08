@@ -1,0 +1,71 @@
+{
+  "name": "Jean Carlos Wahlung",
+  "title": "Ingeniero En sistemas",
+  "pic": "https://eastus21-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Funitechn-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!Cn0Ef-UMIUq-sk9LU9SAK1-4Q-lBjmtPokluTfQXybGlxcN0EnftSJ0weKVTMeQL%2Fitems%2F0133VYAA235J3JBKF2JBHYPJERTQHX6DBX%3Fversion%3DPublished&encodeFailures=1&ctag=%22c%3A%7B9076EA5B-BAA8-4F48-87A4-919C0F7F0C37%7D%2C2%22&width=85&height=150&srcWidth=1080&srcHeight=1920",
+  "infos": [
+    {
+      "icon": "map-marker",
+      "text": "Tegucigalpa , Honduras"
+    },
+    {
+      "icon": "phone",
+      "text": "31768607"
+    },
+    {
+      "icon": "envelope",
+      "text": "jeanwahlung@gmail.com",
+      "link": "mailto:jeanwahlung@gmail.com"
+    }
+  ],
+  "about": {
+    "title": "Descripcion",
+    "icon": "info",
+    "text": "Ingeniero en sistemas apasionado con muchisimas ganas de aportar sus conocimientos y abierto a nuevas tecnologias"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "icon": "briefcase",
+    "items": [
+      {
+        "points": [
+          "Ninguna"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Educacion",
+    "icon": "graduation-cap",
+    "items": [
+      {
+        "name": "British School",
+        "title": "Bachillerato en ciencias y humanidades",
+        "date": "Diciembre 2015",
+        "points": []
+      },
+      {
+        "name": "Universidad Tecnologica Centroamericana",
+        "title": "Ingeniero en Sistemas",
+        "date": "Junio 2020",
+        "points": []
+      }
+    ]
+  },
+  "personalSkills": {
+    "title": "Aptitudes",
+    "icon": "lightbulb-o",
+    "items": [
+      {
+        "points": [
+          " Conocimientos de Java, C++, Python ,HTML , Javascript, Sqlserver",
+          "Bilingue ingles y español",
+          "Trabajo en equipo",
+          "Comunicacion Oral",
+          "Buen manejo de software ofimatico",
+          "Toma de decisiones y resolucion de conflictos",
+          "Habilidades de analisis cuantitativo"
+        ]
+      }
+    ]
+  }
+}
