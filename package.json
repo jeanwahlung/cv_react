@@ -1,6 +1,6 @@
 {
   "name": "cv-master",
-  "homepage": "https://jeanwahlung.github.io/CV_Reactjs/",
+  "homepage": "https://jeanwahlung.github.io/cv_react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
